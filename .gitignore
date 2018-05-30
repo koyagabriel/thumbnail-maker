@@ -5,4 +5,7 @@ __pycache__
 incoming
 outgoing
 staging
+.idea
+.pytest_cache
+thumbnail_maker.pyc
 
